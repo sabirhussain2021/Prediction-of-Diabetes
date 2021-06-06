@@ -36,7 +36,7 @@
 
 * [Python](python)
 * [Flask](flask)
-* [IBM CLoud](IBM Cloud)
+* [IBM_CLoud](IBM_Cloud)
 * [HTML](HTML)
 * [CSS](CSS)
 * [JavaScript](JavaScript)
