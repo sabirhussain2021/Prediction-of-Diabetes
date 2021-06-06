@@ -1,13 +1,10 @@
 <br />
-<p align="center">
-  <a href="https://github.com/github_Abhayparashar/Diabetes-prediction">
-    <img src="images/profile.png" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">Diabetes-prediction</h3>
 
   <p align="center">
-    In this i've tried to predict the probability of a person having diabetes based on some data fields...
+    This app will predict the probability of a person having diabetes based on various data fields
     <br />
    
   
@@ -31,11 +28,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Project
 
- <a href="https://github.com/github_Abhayparashar/price-compare-app">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
-  </a>
 
 
 
@@ -43,8 +36,12 @@
 
 * [Python](python)
 * [Flask](flask)
-
-
+* [IBM CLoud](IBM Cloud)
+* [HTML](HTML)
+* [CSS](CSS)
+* [JavaScript](JavaScript)
+* [BootStrap](BootStrap)
+* [Chatbot](Chatbot)
 
 <!-- GETTING STARTED -->
 ## Getting Started
